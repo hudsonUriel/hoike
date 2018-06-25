@@ -1,7 +1,6 @@
 # Hoike
 
-![Hoike Project Logo]
-(./src/media/img/logo/svg/hoike-full.svg)
+![Hoike Project Logo](./src/media/img/logo/svg/hoike-full.svg)
 
 ## Table of Content
 - [Descrição (pt)](#user-content-descrição)
@@ -15,7 +14,10 @@ Todo conteúdo utilizado nas apresentações, incluindo (mas não limitado a) te
 
 As apresentações em si são livres e distribuídas pelas licenças Creative Commons. Verifique a sessão "LICENÇA" no fim das apresentações para maiores detalhes.
 
+
 > [O termo] Software Livre *(Free Software)* se refere à liberdade, não ao preço. Portanto, pense em *liberdade de expressão*, e não em *cerveja grátis*. As liberdades da qual me refiro são aquelas de realizar mudanças caso você queira, ou mesmo contratar alguém para realizá-las. Se você está usando um software para os seus negócios, [me refiro] à liberdade de redistribuir cópias, compartilhar com outras pessoas, realizar aprimoramentos e publicá-los para que outros também obtenham esses benefícios. **STALLMAN, Richard *em* Revolutin OS, 2001**
+
+[Voltar para tabela de conteúdo (en)](#table-of-content)
 
 ## Description
 
@@ -26,3 +28,5 @@ All content used in the presentations, including texts, images, videos, fonts, i
 The presentations themselves are free and distributed under Creative Commons Licenses. Check the "LICENSE" section in the end of the desired presentation to know more details.
 
 > Free software refers not to price but to freedom, so think of free speech, not free beer. The freedoms that I’m talking about are the freedoms to make changes if you want to, or hire somebody else to make changes for you. If you’re using a software for your business, to redistribute copies, to share with other people and to make improvements and publish them, so other people can get the benefit of them too. **STALLMAN, Richard *in* Revolution OS, 2001**
+
+[Voltar para tabela de conteúdo (en)](#table-of-content)
