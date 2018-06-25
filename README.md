@@ -4,8 +4,8 @@
 (./src/media/img/logo/svg/hoike-full.svg)
 
 ## Table of Content
-- [Descrição (pt)](#user-content-descrição-pt)
-- [Description (en)](#user-content-description-pt)
+- [Descrição (pt)](#user-content-descrição)
+- [Description (en)](#user-content-description)
 
 ## Descrição
 
