@@ -1,8 +1,13 @@
-# hoike
+# Hoike
 
-![Hoike Project Logo](./src/media/img/logo/svg/hoike-full.svg)
+![Hoike Project Logo]
+(./src/media/img/logo/svg/hoike-full.svg)
 
-## Descrição (pt)
+## Table of Content
+- [Descrição (pt)](#user-content-descrição-pt)
+- [Description (en)](#user-content-description-pt)
+
+## Descrição
 
 Hōʻike significa "mostrar" no idioma havaiano. Aqui estão disponíveis as minhas apresentações desenvolvidas para diversos projetos.
 
@@ -10,9 +15,9 @@ Todo conteúdo utilizado nas apresentações, incluindo (mas não limitado a) te
 
 As apresentações em si são livres e distribuídas pelas licenças Creative Commons. Verifique a sessão "LICENÇA" no fim das apresentações para maiores detalhes.
 
-> Software Livre (Free Software) se refere à liberdade, não ao preço. Portanto, pense em *liberdade de expressão*, e não em *cerveja grátis*. As liberdades da qual me refiro são aquelas de realizar mudanças caso você queira, ou mesmo contratar alguém para realizá-las. Se você está usando um software para os seus negócios, [me refiro] à liberdade de redistribuir cópias, compartilhar com outras pessoas, realizar aprimoramentos e publicá-los para que outros também obtenham esses benefícios. **STALLMAN, Richard *em* Revolutin OS, 2001**
+> [O termo] Software Livre *(Free Software)* se refere à liberdade, não ao preço. Portanto, pense em *liberdade de expressão*, e não em *cerveja grátis*. As liberdades da qual me refiro são aquelas de realizar mudanças caso você queira, ou mesmo contratar alguém para realizá-las. Se você está usando um software para os seus negócios, [me refiro] à liberdade de redistribuir cópias, compartilhar com outras pessoas, realizar aprimoramentos e publicá-los para que outros também obtenham esses benefícios. **STALLMAN, Richard *em* Revolutin OS, 2001**
 
-## Description (en)
+## Description
 
 Hōʻike means "to show" in hawaiian. Here are distributed my personal presentations developed to many projects.
 
