@@ -3,10 +3,25 @@
 ![Hoike Project Logo](./src/media/img/logo/svg/hoike-full.svg)
 
 ## Table of Content
-- [Descrição (pt)](#user-content-descrição)
-- [Description (en)](#user-content-description)
+- Description
+    -- [(en) Description](#description-en)
+    -- [(pt) Descrição](#descrição-pt)
 
-## Descrição
+    
+## Description
+
+### Description (en)
+
+Hōʻike means "to show" in hawaiian. Here are distributed my personal presentations developed to many projects.
+
+All content used in the presentations, including texts, images, videos, fonts, icons and/or eventual piece of software used to develop interactions, animations and other resources, are free content and/or open-source, **unless explicitly informed otherwise.**
+
+The presentations themselves are free and distributed under Creative Commons Licenses. Check the "LICENSE" section in the end of the desired presentation to know more details.
+
+> Free software refers not to price but to freedom, so think of free speech, not free beer. The freedoms that I’m talking about are the freedoms to make changes if you want to, or hire somebody else to make changes for you. If you’re using a software for your business, to redistribute copies, to share with other people and to make improvements and publish them, so other people can get the benefit of them too. **STALLMAN, Richard *in* Revolution OS, 2001**
+
+
+### Descrição (pt)
 
 Hōʻike significa "mostrar" no idioma havaiano. Aqui estão disponíveis as minhas apresentações desenvolvidas para diversos projetos.
 
@@ -19,14 +34,7 @@ As apresentações em si são livres e distribuídas pelas licenças Creative Co
 
 [Voltar para tabela de conteúdo (en)](#table-of-content)
 
-## Description
-
-Hōʻike means "to show" in hawaiian. Here are distributed my personal presentations developed to many projects.
-
-All content used in the presentations, including texts, images, videos, fonts, icons and/or eventual piece of software used to develop interactions, animations and other resources, are free content and/or open-source, **unless explicitly informed otherwise.**
-
-The presentations themselves are free and distributed under Creative Commons Licenses. Check the "LICENSE" section in the end of the desired presentation to know more details.
-
-> Free software refers not to price but to freedom, so think of free speech, not free beer. The freedoms that I’m talking about are the freedoms to make changes if you want to, or hire somebody else to make changes for you. If you’re using a software for your business, to redistribute copies, to share with other people and to make improvements and publish them, so other people can get the benefit of them too. **STALLMAN, Richard *in* Revolution OS, 2001**
 
 [Voltar para tabela de conteúdo (en)](#table-of-content)
+
+### License
