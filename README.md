@@ -4,12 +4,10 @@
 
 ## Table of Content
 - Description
-    -- [(en) Description](#description-en)
-    -- [(pt) Descrição](#descrição-pt)
+  -- [(en) Description](#description-en)
+  -- [(pt) Descrição](#descrição-pt)
 
     
-## Description
-
 ### Description (en)
 
 Hōʻike means "to show" in hawaiian. Here are distributed my personal presentations developed to many projects.
