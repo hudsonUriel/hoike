@@ -9,11 +9,11 @@
 - Project Description
   - [(en) Description](#description-en)
   - [(pt) Descrição](#descrição-pt)
-- [Licenses](licenses)
+- [Licenses](#licenses)
  - [Project Hoike](#project-hoike)
  - [Presentations](#presentations)
- - [Media Content](media-content)
- - [Pieces of Software](pieces-of-software)
+ - [Media Content](#media-content)
+ - [Pieces of Software](#pieces-of-software)
 
 
 
@@ -54,16 +54,26 @@ As apresentações em si são livres e distribuídas pela licença MIT. Verifiqu
 This project (Hoike) as a whole is distributed under the [MIT License](https://opensource.org/licenses/MIT), a *short and simple permissive license with conditions only requiring preservation of copyright and license notices.* ([Choose a License](choosealicense.com))
 
 Be free to:
+
 :heavy_check_mark: Distribute
+
 :heavy_check_mark: Copy
+
 :heavy_check_mark: Modify
+
 :heavy_check_mark: Publish
+
 :heavy_check_mark: Make commercial use
+
 :heavy_check_mark: Make private use
+
 :heavy_check_mark: Make derivate works with different license
+
 :heavy_check_mark: Do whatever you want (literally)
 
+
 But, do no forget to:
+
 :heavy_minus_sign: Keep a copy of the LICENSE and the copyright notice
 
 Keep in mind that this project and all of this constituents have **no warranties**. Neither the author nor the licenses are responsible for any damages or liabilities arising from the use of this project or its constituents.
