@@ -1,7 +1,6 @@
 # Hoike
 
-![Hoike Project Logo](./src/media/img/logo/svg/hoike-full.svg)
-
+![Hoike Project Logo](./src/media/img/logo/svg/Version 2.0/hoike-full.svg)
 
 
 ## Table of Content
@@ -14,7 +13,6 @@
  - [Presentations](#presentations)
  - [Media Content](#media-content)
  - [Pieces of Software](#pieces-of-software)
-
 
 
 ## Project Description
@@ -41,11 +39,6 @@ As apresentações em si são livres e distribuídas pela licença MIT. Verifiqu
 
 > [O termo] Software Livre *(Free Software)* se refere à liberdade, não ao preço. Portanto, pense em *liberdade de expressão*, e não em *cerveja grátis*. As liberdades da qual me refiro são aquelas de realizar mudanças caso você queira, ou mesmo contratar alguém para realizá-las. Se você está usando um software para os seus negócios, [me refiro] à liberdade de redistribuir cópias, compartilhar com outras pessoas, realizar aprimoramentos e publicá-los para que outros também obtenham esses benefícios. **STALLMAN, Richard *em* Revolutin OS, 2001**
 
-[Voltar para tabela de conteúdo (en)](#table-of-content)
-
-
-[Voltar para tabela de conteúdo (en)](#table-of-content)
-
 
 
 ## Licenses
@@ -53,28 +46,19 @@ As apresentações em si são livres e distribuídas pela licença MIT. Verifiqu
 ### Project Hoike
 This project (Hoike) as a whole is distributed under the [MIT License](https://opensource.org/licenses/MIT), a *short and simple permissive license with conditions only requiring preservation of copyright and license notices.* ([Choose a License](choosealicense.com))
 
-Be free to:
-
-:heavy_check_mark: Distribute
-
-:heavy_check_mark: Copy
-
-:heavy_check_mark: Modify
-
-:heavy_check_mark: Publish
-
-:heavy_check_mark: Make commercial use
-
-:heavy_check_mark: Make private use
-
-:heavy_check_mark: Make derivate works with different license
-
-:heavy_check_mark: Do whatever you want (literally)
+- Be free to:
+  - :heavy_check_mark: Distribute
+  - :heavy_check_mark: Copy
+  - :heavy_check_mark: Modify
+  - :heavy_check_mark: Publish
+  - :heavy_check_mark: Make commercial use
+  - :heavy_check_mark: Make private use
+  - :heavy_check_mark: Make derivate works with different license
+  - :heavy_check_mark: Do whatever you want (literally)
 
 
-But, do no forget to:
-
-:heavy_minus_sign: Keep a copy of the LICENSE and the copyright notice
+- But, do no forget to:
+  - :heavy_minus_sign: Keep a copy of the LICENSE and the copyright notice
 
 Keep in mind that this project and all of this constituents have **no warranties**. Neither the author nor the licenses are responsible for any damages or liabilities arising from the use of this project or its constituents.
 
@@ -83,7 +67,6 @@ All individual presentations are also distributed under [MIT License](https://op
 
 ### Media Content
 Any and all media content, including, but not limited to images, texts, fonts, songs, videos and icons, produced for use in one or more presentations, will be distributed under [Creative Commons Licenses](https://creativecommons.org/), explicitly described in each individual presentation.
-
 
 ### Pieces of Software
 Any and all piece of software, including, but not limited to scripts, functions, classes, and modules, and excluding external existing libraries or packages, explicitly developed to be embedded used in, exclusively, one or more presentations will be distributed under [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.txt).
