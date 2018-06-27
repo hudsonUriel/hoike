@@ -1,6 +1,6 @@
 # Hoike
 
-![Hoike Project Logo](./src/media/img/logo/svg/Version 2.0/hoike-full.svg)
+![Hoike Project Logo](./src/media/img/logo/svg/2.0/hoike-full.svg)
 
 
 ## Table of Content
