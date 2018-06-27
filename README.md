@@ -13,6 +13,11 @@
  - [Presentations](#presentations)
  - [Media Content](#media-content)
  - [Pieces of Software](#pieces-of-software)
+- [Design and Visual Identity](#design-and-visual-identity)
+  - [Distribution](#distribution)
+  - [Design](#design)
+  - [Versions](#versions)
+  - [Modifications](#modifications)
 
 
 ## Project Description
@@ -36,7 +41,6 @@ Todo conteúdo utilizado nas apresentações, incluindo (mas não se limitado a)
 
 As apresentações em si são livres e distribuídas pela licença MIT. Verifique a sessão "LICENÇA" ao final deste documento e das apresentações para maiores detalhes.
 
-
 > [O termo] Software Livre *(Free Software)* se refere à liberdade, não ao preço. Portanto, pense em *liberdade de expressão*, e não em *cerveja grátis*. As liberdades da qual me refiro são aquelas de realizar mudanças caso você queira, ou mesmo contratar alguém para realizá-las. Se você está usando um software para os seus negócios, [me refiro] à liberdade de redistribuir cópias, compartilhar com outras pessoas, realizar aprimoramentos e publicá-los para que outros também obtenham esses benefícios. **STALLMAN, Richard *em* Revolutin OS, 2001**
 
 
@@ -56,7 +60,6 @@ This project (Hoike) as a whole is distributed under the [MIT License](https://o
   - :heavy_check_mark: Make derivate works with different license
   - :heavy_check_mark: Do whatever you want (literally)
 
-
 - But, do no forget to:
   - :heavy_minus_sign: Keep a copy of the LICENSE and the copyright notice
 
@@ -70,3 +73,37 @@ Any and all media content, including, but not limited to images, texts, fonts, s
 
 ### Pieces of Software
 Any and all piece of software, including, but not limited to scripts, functions, classes, and modules, and excluding external existing libraries or packages, explicitly developed to be embedded used in, exclusively, one or more presentations will be distributed under [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.txt).
+
+
+
+## Design and Visual Identity
+
+## Distribution
+The logo used to this project, including all its versions, are distributed under [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+- Be free to:
+  - :heavy_check_mark: Distribute
+  - :heavy_check_mark: Copy
+  - :heavy_check_mark: Modify
+  - :heavy_check_mark: Publish
+  - :heavy_check_mark: Tweak
+  - :heavy_check_mark: Make private use
+  - :heavy_check_mark: Make derivate works
+
+- But, do no forget to:
+  - :heavy_minus_sign: Credit the original creation
+
+### Design
+(Origin)
+
+(Font)
+
+(Colors)
+
+(Historic)
+
+### Versions
+(Current version alternatives)
+
+### Modifications
+(Current version possible alterations)
