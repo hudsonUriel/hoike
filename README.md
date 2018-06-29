@@ -93,6 +93,6 @@ The logo used to this project, including all its versions, are distributed under
 
 ### Design
 
-![Versions](./src/media/img/visual-identity/schemes/logo-versions.svg)
+![Versions](./src/media/visual-identity/schemes/logo-versions.svg)
 
-![Versions](./src/media/img/visual-identity/schemes/logo-colors.svg)
+![Versions](./src/media/visual-identity/schemes/logo-colors.svg)
