@@ -1,6 +1,6 @@
 # Hoike
 
-![Hoike Project Logo](./src/media/img/logo/svg/2.0/hoike-full.svg)
+![Hoike Project Logo](./src/media/img/logo/hoike-logo.svg)
 
 
 ## Table of Content
@@ -17,8 +17,6 @@
   - [Distribution](#distribution)
   - [Design](#design)
   - [Versions](#versions)
-  - [Modifications](#modifications)
-
 
 ## Project Description
 
@@ -94,16 +92,7 @@ The logo used to this project, including all its versions, are distributed under
   - :heavy_minus_sign: Credit the original creation
 
 ### Design
-(Origin)
 
-(Font)
+![Versions](./src/media/img/visual-identity/schemes/logo-versions.svg)
 
-(Colors)
-
-(Historic)
-
-### Versions
-(Current version alternatives)
-
-### Modifications
-(Current version possible alterations)
+![Versions](./src/media/img/visual-identity/schemes/logo-colors.svg)
