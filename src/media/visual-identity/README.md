@@ -6,7 +6,7 @@
 
 ## Table of Content
 
-- Visual Identity Elements
+- [Visual Identity Elements](#visual-identity-elements)
  - [Logo, Symbol and Favicon](#logo-symbol-favicon)
  - [Modifications](#modified-versions)
  - [Color Pallete](#colors)
