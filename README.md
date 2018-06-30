@@ -15,8 +15,6 @@
  - [Pieces of Software](#pieces-of-software)
 - [Design and Visual Identity](#design-and-visual-identity)
   - [Distribution](#distribution)
-  - [Design](#design)
-  - [Versions](#versions)
 
 ## Project Description
 
@@ -90,9 +88,3 @@ The logo used to this project, including all its versions, are distributed under
 
 - But, do no forget to:
   - :heavy_minus_sign: Credit the original creation
-
-### Design
-
-![Versions](./src/media/visual-identity/schemes/logo-versions.svg)
-
-![Versions](./src/media/visual-identity/schemes/logo-colors.svg)
