@@ -1,6 +1,4 @@
-# Hoike - Visual Identity
-
-![Visual Identity Cover](./schemes/cover.svg)
+![|Graphic Identity Cover](./schemes/cover.svg)
 
 
 
@@ -36,8 +34,16 @@ Hoike representative Graphic Symbols are made up by the following versions:
 
 ![Elements Versions](./schemes/versions.svg)
 
-
 ### Colors
 The color pallete used to Hoike Visual Identity elements is shown below:
 
 ![Color Pallete](./schemes/colors.svg)
+
+### Fonts
+Hoike brand elements (logo and symbol) were creted upon the [Glacial Indifference Font](https://fontlibrary.org/en/font/glacial-indifference), distributed under [Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
+
+![Glacial Indifference Font](./fonts/glacial-indifference.svg)
+
+The font used in the Visual Identity material exposed here is [Belgika](https://fontlibrary.org/pt/font/belgica-belgika), also distributed under [Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
+
+![Belgika](./fonts/belgika.svg)
